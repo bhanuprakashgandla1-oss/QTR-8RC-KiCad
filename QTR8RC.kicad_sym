@@ -1,4 +1,4 @@
-(kicad_symbol_lib (version 20231120) (generator "ChatGPT")
+﻿(kicad_symbol_lib (version 20231120) (generator "kicad_symbol_editor")
   (symbol "QTR-8RC"
     (pin_names (offset 1.016))
     (exclude_from_sim no)
@@ -47,3 +47,4 @@
     )
   )
 )
+
